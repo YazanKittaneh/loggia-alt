@@ -2,7 +2,7 @@
   "sitename": "Loggia",
   "sitedescription": "Advertisement and Engineering ",
   "siteicon": "/images/uploads/l.png",
-  "showmenu": false,
+  "showmenu": true,
   "emailsignup": false,
   "altlayout": true,
   "menu": [

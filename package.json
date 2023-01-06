@@ -1,8 +1,8 @@
 {
-  "name": "bael-cms-template",
-  "version": "0.1.2",
-  "description": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js",
-  "author": "jake101 <hello@jake101.com>",
+  "name": "Loggia Inc.",
+  "version": "0.1",
+  "description": "Distributing Concepts",
+  "author": "yazan <yazan@loggiainc.com>",
   "scripts": {
     "dev": "nuxt",
     "serve": "nuxt",
